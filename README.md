@@ -1,3 +1,5 @@
+防的比较全的，连编码都是base58的，还实现了hash tree，也就是 MerkelRoot 
+
 # Blockchain
 Having fun implementing a blockchain using Golang.
 
